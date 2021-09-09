@@ -1,0 +1,11 @@
+{
+	"C_Cpp.clang_format_sortIncludes": false,
+	"C_Cpp.updateChannel": "Insiders", // ビルドのレシピに使われるパーツ
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.detectIndentation": false, //Not to insert Spaces pressing Tab
+	"editor.tabSize": 4,
+	"editor.renderIndentGuides": true,
+	"editor.renderWhitespace": "all",
+	"editor.wordWrap": "off",
+	"editor.insertSpaces": false,
+}
