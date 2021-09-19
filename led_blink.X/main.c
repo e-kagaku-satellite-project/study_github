@@ -48,6 +48,7 @@
  */
 void main(void) {
 	// initialize the device
+	//　uchiumi comment
 	SYSTEM_Initialize();
 
 	// When using interrupts, you need to set the Global and Peripheral Interrupt
