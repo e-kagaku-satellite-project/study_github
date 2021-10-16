@@ -3,3 +3,7 @@
 
 ## テスト
 峯田一樹編集
+
+Takanao Ishii
+
+tanakatakuma
