@@ -8,4 +8,5 @@
 	"editor.renderWhitespace": "all",
 	"editor.wordWrap": "off",
 	"editor.insertSpaces": false,
+	"editor.formatOnSave": true
 }
