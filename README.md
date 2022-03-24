@@ -5,4 +5,6 @@ test by akira iida<br>
 
 
   
-20220318 Sourcefreeのテスト
+20220318 Sourcefreeのテスト  
+
+COMのGitの練習
